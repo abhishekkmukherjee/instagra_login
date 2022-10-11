@@ -1,0 +1,105 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+
+.firstContainer {
+  border: 2px solid rgb(252, 244, 244);
+  display: block  ;
+ margin: auto;
+ width: 20%;
+ padding-left: 138px;
+ margin-top: 36px;
+ padding-right: 20px;
+
+ 
+  
+}
+
+.firstContainer img {
+  display: flex;
+  height: 80px;
+  width: 139px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.forms{
+margin-right: 20px;
+
+
+
+}
+.firstContainer input{
+    border: 2px solid #1e1e1e2b;
+    border-radius: 4px;
+    height: 24px;
+    width: 222px;
+   
+    
+
+}
+
+.button{
+    color: white;
+    background-color:rgb(171 171 255 / 83%);
+    width: 231px;
+    border-radius: 3px;
+    margin-top: 20px;
+    height: 30px;
+    border: 0px solid black;
+}
+.firstContainer p{
+    color: gray;
+    font-size: small;
+    margin-left: 99px;
+}
+.fb p{
+    font-size: small;
+    color: darkblue;
+    margin-left: 47px;
+    margin-top: 30px;
+}
+.forget p{
+    font-size: x-small;
+    color: black;
+    margin-left: 62px;
+    margin-top: 25px;
+}
+.newacc{
+    border: 2px solid rgb(252, 244, 244);
+  display: block  ;
+ margin: auto;
+ width: 20%;
+ padding-left: 138px;
+ margin-top: 15px;
+ padding-right: 20px;
+
+}
+.newacc p{
+    font-size: small;
+    display:inline-block;
+  
+}
+.sign{
+    color: blueviolet;
+   margin-left: -2px;
+}
+.footer{
+   
+    display: block  ;
+   margin: auto;
+   width: 20%;
+   padding-left: 138px;
+   margin-top: 15px;
+   padding-right: 20px;
+}
+.footer p{
+    font-size: x-small;
+    padding-left: 74px;
+}
+.footer img{
+    width: 105px;
+    height: 35px;
+}
